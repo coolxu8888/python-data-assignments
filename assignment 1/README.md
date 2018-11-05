@@ -5,9 +5,9 @@ page:http://www.chinabuildingcentre.com/list-41-4.html
 # Data fields
 tittles - String. e.g. 
 summaries - String. e.g. 
-article——urls - url. e.g.
+article - urls - url. e.g.
 # Data Volume
-750 rows 3 columns
+100+ rows 3 columns
 
 # License
 CC 4.0
